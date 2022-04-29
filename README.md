@@ -48,5 +48,3 @@ Cấu hình xong nhớ khởi động lại xrayr nhé.
 
 Nên sử dụng VPS sạch để cài đặt tránh lỗi vặt 
 
-## Video demo
-[Tại đây](https://youtu.be/nKE_xBWgNM0)
